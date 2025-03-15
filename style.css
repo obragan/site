@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+head, h1 {
+    color: blue;
+    background-color: lightblue;
+}
+
+ol {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
